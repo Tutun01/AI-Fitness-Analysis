@@ -1,6 +1,5 @@
 vendor/
 uploads/
 config.php
-.env
+composer.lock
 .DS_Store
-node_modules/
